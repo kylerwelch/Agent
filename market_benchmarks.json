@@ -1,0 +1,63 @@
+{
+  "location": "Austin, TX",
+  "company_size": "100-500 employees",
+  "data_source": "2024 Tech Salary Survey",
+  "last_updated": "2024-12-01",
+  "roles": {
+    "Junior Engineer": {
+      "market_median": 75000,
+      "percentile_25": 68000,
+      "percentile_75": 82000,
+      "total_comp_median": 85000,
+      "yoy_growth": "8%"
+    },
+    "Mid-Level Engineer": {
+      "market_median": 98000,
+      "percentile_25": 88000,
+      "percentile_75": 108000,
+      "total_comp_median": 115000,
+      "yoy_growth": "12%"
+    },
+    "Senior Engineer": {
+      "market_median": 135000,
+      "percentile_25": 120000,
+      "percentile_75": 150000,
+      "total_comp_median": 160000,
+      "yoy_growth": "15%"
+    },
+    "Staff Engineer": {
+      "market_median": 162000,
+      "percentile_25": 150000,
+      "percentile_75": 180000,
+      "total_comp_median": 195000,
+      "yoy_growth": "18%"
+    },
+    "Account Executive": {
+      "market_median": 95000,
+      "ote_median": 190000,
+      "percentile_25": 85000,
+      "percentile_75": 110000,
+      "yoy_growth": "10%"
+    },
+    "Sales Manager": {
+      "market_median": 125000,
+      "ote_median": 250000,
+      "percentile_25": 110000,
+      "percentile_75": 140000,
+      "yoy_growth": "14%"
+    },
+    "SDR": {
+      "market_median": 60000,
+      "ote_median": 90000,
+      "percentile_25": 52000,
+      "percentile_75": 68000,
+      "yoy_growth": "6%"
+    }
+  },
+  "market_insights": {
+    "austin_premium": "15% above national average",
+    "top_competitors": ["Meta", "Apple", "Google", "Indeed", "Oracle"],
+    "hiring_trend": "Very competitive market, candidates receiving multiple offers",
+    "retention_risk": "High for underpaid roles (below 40th percentile)"
+  }
+}
