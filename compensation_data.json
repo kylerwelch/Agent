@@ -1,0 +1,42 @@
+{
+  "departments": {
+    "Engineering": {
+      "total_employees": 45,
+      "employees": [
+        {"id": 1, "name": "Alex Chen", "role": "Senior Engineer", "salary": 118000, "gender": "M", "tenure_years": 3.2, "location": "Austin"},
+        {"id": 2, "name": "Sarah Johnson", "role": "Senior Engineer", "salary": 115000, "gender": "F", "tenure_years": 2.8, "location": "Austin"},
+        {"id": 3, "name": "Mike Rodriguez", "role": "Mid-Level Engineer", "salary": 102000, "gender": "M", "tenure_years": 0.3, "location": "Austin"},
+        {"id": 4, "name": "Jennifer Wu", "role": "Mid-Level Engineer", "salary": 89000, "gender": "F", "tenure_years": 2.1, "location": "Austin"},
+        {"id": 5, "name": "David Park", "role": "Junior Engineer", "salary": 68000, "gender": "M", "tenure_years": 1.5, "location": "Austin"},
+        {"id": 6, "name": "Lisa Martinez", "role": "Junior Engineer", "salary": 72000, "gender": "F", "tenure_years": 0.8, "location": "Austin"},
+        {"id": 7, "name": "James Wilson", "role": "Staff Engineer", "salary": 160000, "gender": "M", "tenure_years": 5.2, "location": "Austin"},
+        {"id": 8, "name": "Maria Garcia", "role": "Senior Engineer", "salary": 112000, "gender": "F", "tenure_years": 4.1, "location": "Austin"},
+        {"id": 9, "name": "Robert Kim", "role": "Mid-Level Engineer", "salary": 96000, "gender": "M", "tenure_years": 1.9, "location": "Austin"},
+        {"id": 10, "name": "Emily Brown", "role": "Mid-Level Engineer", "salary": 91000, "gender": "F", "tenure_years": 3.5, "location": "Austin"}
+      ],
+      "summary": {
+        "avg_salary": 98500,
+        "median_salary": 95000,
+        "salary_range": {"min": 68000, "max": 160000},
+        "gender_breakdown": {"male": 6, "female": 4},
+        "avg_tenure": 2.52
+      }
+    },
+    "Sales": {
+      "total_employees": 28,
+      "employees": [
+        {"id": 20, "name": "John Davis", "role": "Account Executive", "salary": 95000, "ote": 180000, "gender": "M", "tenure_years": 1.5},
+        {"id": 21, "name": "Amanda Lee", "role": "Account Executive", "salary": 88000, "ote": 165000, "gender": "F", "tenure_years": 2.3},
+        {"id": 22, "name": "Chris Taylor", "role": "Sales Manager", "salary": 110000, "ote": 220000, "gender": "M", "tenure_years": 4.1},
+        {"id": 23, "name": "Rachel Green", "role": "SDR", "salary": 55000, "ote": 85000, "gender": "F", "tenure_years": 0.7},
+        {"id": 24, "name": "Kevin Wong", "role": "SDR", "salary": 58000, "ote": 88000, "gender": "M", "tenure_years": 1.2}
+      ],
+      "summary": {
+        "avg_salary": 81200,
+        "avg_ote": 147600,
+        "median_salary": 88000,
+        "salary_range": {"min": 55000, "max": 110000}
+      }
+    }
+  }
+}
